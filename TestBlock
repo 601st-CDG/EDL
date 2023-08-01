@@ -1,1 +1,13 @@
-dairyqueen.com
+!
+! Title: Test Blocklist
+! Description: Blocklist of malicious websites based on 
+! Homepage: 
+! Last modified: 2023-08-01T01:33:06.182Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.22
+!
+!
+! Source name: Online Malicious URL Blocklist
+! Source: 
+!
+||dairyqueen.com^
